@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Laptop",
+      "categoryId": 1,
+      "unitPrice": 5000.99
+    },
+    {
+      "id": "2",
+      "productName": "Mouse",
+      "categoryId": 1,
+      "unitPrice": 61.99
+    },
+    {
+      "id": "3",
+      "productName": "Water",
+      "categoryId": 2,
+      "unitPrice": 0.99
+    },
+    {
+      "id": "9e9e",
+      "Id": 4,
+      "ProductName": "Phone",
+      "CategoryId": 1,
+      "UnitPrice": 999.99
+    },
+    {
+      "id": "bb8a",
+      "Id": 4,
+      "ProductName": "Phone",
+      "CategoryId": 1,
+      "UnitPrice": 999.99
+    },
+    {
+      "id": "d14d",
+      "Id": 0,
+      "ProductName": "Pasta",
+      "CategoryId": 2,
+      "UnitPrice": 3.99
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "categoryName": "Computers"
+    },
+    {
+      "id": "2",
+      "categoryName": "Beverages"
+    }
+  ]
+}
